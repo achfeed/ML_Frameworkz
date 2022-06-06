@@ -27,3 +27,11 @@
     2. Text Data Transformer<br>
     3. Data preprocessing Transformer<br>
   All transformers stacked in a pipeline along with CountVectorize and LR model or XGBoost model<br>
+
+
+
+# 3. Comparison of corpus words counts and rankings<br>
+  ```diff
+  - Notebook : **Corpus words ranking-counts comparison** 
+  ```
+  ![image](https://user-images.githubusercontent.com/72417895/172221458-8a0788a4-ea0c-4ae1-9db6-fb04994fadcd.png)
