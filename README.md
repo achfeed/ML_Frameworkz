@@ -38,7 +38,7 @@
   
 
 
-# 4. Comparison of corpus words counts and rankings<br>
+# 4. GridSearch on pipelines and stacking<br>
   ```diff
   - Notebook : GridSearch pipelines and stacking
   ```
