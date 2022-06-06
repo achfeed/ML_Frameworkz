@@ -1,7 +1,7 @@
 # 1. ML_Framework : 
   ```diff
   - Notebook : **ML_Framework_track_metrics**
-  ```<br>
+  <br>
   Simple notebook that performs some models exploration<br>
 
   Implementing simple ML algorithms on a synthetic dataset and keeping track of performances of best score by model obtained by gridSearch.<br>
@@ -19,7 +19,7 @@
 # 2. Custom pipelines sklearn transformers<br>
   ```diff
   - Notebook : **Custom Transformers Pipelines** 
-  ```<br>
+  <br>
   Custom transformers to have :<br>
     1. Numerical data Transformer<br>
     2. Text Data Transformer<br>
