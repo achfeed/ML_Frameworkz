@@ -1,5 +1,7 @@
 # 1. ML_Framework : 
-  <font color="green"> Notebook : **ML_Framework_track_metrics** </font><br>
+  ```diff
+  - Notebook : **ML_Framework_track_metrics**
+  ```<br>
   Simple notebook that performs some models exploration<br>
 
   Implementing simple ML algorithms on a synthetic dataset and keeping track of performances of best score by model obtained by gridSearch.<br>
@@ -15,7 +17,9 @@
 
 <br>
 # 2. Custom pipelines sklearn transformers<br>
-<font color="green"> Notebook : **Custom Transformers Pipelines** </font><br>
+  ```diff
+  - Notebook : **Custom Transformers Pipelines** 
+  ```<br>
   Custom transformers to have :<br>
     1. Numerical data Transformer<br>
     2. Text Data Transformer<br>
@@ -23,6 +27,4 @@
   All transformers stacked in a pipeline along with CountVectorize and LR model or XGBoost model<br>
   
   
-```diff
-- works
-```
+
