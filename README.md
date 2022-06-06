@@ -1,6 +1,6 @@
 # 1. ML_Framework : 
   ```diff
-  - Notebook : **ML_Framework_track_metrics**
+  - Notebook : ML_Framework_track_metrics
   ```
   
   Simple notebook that performs some models exploration<br>
@@ -20,7 +20,7 @@
 
 # 2. Custom pipelines sklearn transformers<br>
   ```diff
-  - Notebook : **Custom Transformers Pipelines** 
+  - Notebook : **Custom Transformers Pipelines
   ```
   Custom transformers to have :<br>
     1. Numerical data Transformer<br>
@@ -32,6 +32,6 @@
 
 # 3. Comparison of corpus words counts and rankings<br>
   ```diff
-  - Notebook : **Corpus words ranking-counts comparison** 
+  - Notebook : Corpus words ranking-counts comparison
   ```
   ![image](https://user-images.githubusercontent.com/72417895/172221458-8a0788a4-ea0c-4ae1-9db6-fb04994fadcd.png)
