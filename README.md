@@ -1,5 +1,5 @@
 # 1. ML_Framework : 
-  Notebook : **ML_Framework_track_metrics**<br>
+  <span style="color: green">Notebook : ML_Framework_track_metrics</span><br>
   Simple notebook that performs some models exploration<br>
 
   Implementing simple ML algorithms on a synthetic dataset and keeping track of performances of best score by model obtained by gridSearch.<br>
@@ -15,7 +15,7 @@
 
 <br><br>
 # 2. Custom pipelines sklearn transformers<br>
-Notebook : **Custom Transformers Pipelines**<br>
+<span style="color: green">Notebook : **Custom Transformers Pipelines**</span><br>
   Custom transformers to have :<br>
     1. Numerical data Transformer<br>
     2. Text Data Transformer<br>
