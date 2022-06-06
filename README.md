@@ -35,3 +35,13 @@
   - Notebook : Corpus words ranking-counts comparison
   ```
   ![image](https://user-images.githubusercontent.com/72417895/172221458-8a0788a4-ea0c-4ae1-9db6-fb04994fadcd.png)
+  
+
+
+# 4. Comparison of corpus words counts and rankings<br>
+  ```diff
+  - Notebook : GridSearch pipelines and stacking
+  ```
+In order to find the best estimator, I create a loop over multiple Grid Searches that will try to find the best prameters for estimators among multiple pipelines.<br>
+In the second step I add the Stacking part in which I stack multiple classifiers and a pipeline on a metamodel in addition to a Grid Search to have a better model.
+
